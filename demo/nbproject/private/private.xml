@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/listener/MyContextServletListener.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/cart/CartObj.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/utils/DBHelpers.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/errors.html</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/LoginServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/DispatchServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/createNewAccount.html</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/utils/MyApplicationConstants.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/checkout.jsp</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/TriggerAppServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/SearchProductServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/DeleteAccountServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/shopping.jsp</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/tbl_order/Tbl_OrderDAO.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/RemoveCartServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/SearchLastNameServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/registration/RegistrationDTO.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/META-INF/context.xml</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/viewcart.jsp</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/invalid.html</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/tbl_product/Tbl_ProductDAO.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/CheckOutServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/web/login.html</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/AddItemToCartServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/registration/RegistrationDAO.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/UpdateServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/CreateNewAccountServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/registration/RegistrationInsertError.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/tbl_detail/Tbl_DetailDAO.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/controller/LogoutServlet.java</file>
+            <file>file:/D:/Java8.2/Servlet/demo/src/java/tampvm/utils/PropertiesFileHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
